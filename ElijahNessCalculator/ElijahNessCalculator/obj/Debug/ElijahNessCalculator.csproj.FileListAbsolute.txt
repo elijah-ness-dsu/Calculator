@@ -1,0 +1,10 @@
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\bin\Debug\ElijahNessCalculator.exe.config
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\bin\Debug\ElijahNessCalculator.exe
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\bin\Debug\ElijahNessCalculator.pdb
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.csprojAssemblyReference.cache
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.Properties.Resources.resources
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.csproj.GenerateResource.cache
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.csproj.CoreCompileInputs.cache
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.exe
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.pdb
+C:\Users\reale\Desktop\OOP\ElijahNessCalculator\ElijahNessCalculator\obj\Debug\ElijahNessCalculator.frmCalculator.resources
